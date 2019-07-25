@@ -10,4 +10,5 @@ public class ProvinceDaoImpl implements ProvinceDao {
     public List<Province> findAll() {
         return null;
     }
+
 }
